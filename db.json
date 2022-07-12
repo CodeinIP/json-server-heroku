@@ -1,4 +1,21 @@
 {
+  "todos":[
+    {
+      "id":1,
+      "todo":"Learn React",
+      "'status":true
+    },
+    {
+      "id":2,
+      "todo":"Learn useContext",
+      "'status":false
+    },
+    {
+      "id":3,
+      "todo":"Learn useReducer",
+      "'status":true
+    }
+  ],
   "items": [
     {
       "name": "URU Brew Park",
