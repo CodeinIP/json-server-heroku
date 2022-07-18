@@ -1,4 +1,19 @@
 {
+  "hospitals":[
+    {
+      "id":1,
+      "name":"PGI CHD",
+      "address":"Chandigarh,India"
+    }
+  ],
+  "doctor":[
+    {
+      "id":1,
+      "name":"Prashant Aggarwal",
+      "specialization":"dentist",
+      "salary":"1.2k"
+    }
+  ],
   "todos":[
     {
       "id":1,
